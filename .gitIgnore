@@ -1,0 +1,11 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo .env (si usas uno para las claves API)
+.env
+
+# Ignorar el archivo package-lock.json
+package-lock.json
+
+# Ignorar la prueba, porque qué vergüenza
+prueba.html

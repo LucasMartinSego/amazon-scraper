@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^23.8.0"
+  },
+  "name": "scraper-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
